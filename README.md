@@ -2,7 +2,7 @@
 
 A mobile app for Fans of Partridge (FOPs) worldwide.
 
-# OK great, how do I run this thing?
+## OK great, how do I run this thing?
 
 Got Flutter installed? Excellent. Do the following:
 
