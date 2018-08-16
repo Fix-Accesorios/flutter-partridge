@@ -1,8 +1,15 @@
-# flutter_demo
+# Alan Partridge Quotes
 
-A new Flutter project.
+A mobile app for Fans of Partridge (FOPs) worldwide.
 
-## Getting Started
+# OK great, how do I run this thing?
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Got Flutter installed? Excellent. Do the following:
+
+`flutter run`
+
+Lovely stuff.
+
+## What sort of wizardry is this?
+
+Flutter thats what. [Check it out](https://flutter.io/).
